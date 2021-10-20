@@ -19,6 +19,13 @@
     </div>
     
     <h2> Why do I like owls so much <h/>
+      
+      <ul>
+        <li><img src="images/img1.jpg" alt="adorable"></li>
+        <li><img src="images/img2.jpg" alt="lovely"></li>
+        <li><img src="images/img3.jpg" alt="cuddly"></li>         
+      </ul>
+      
       <ol> 
         <li> They are adorable </li>
         <li> and lovely </li>
