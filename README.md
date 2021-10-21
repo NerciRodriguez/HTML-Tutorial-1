@@ -17,9 +17,10 @@
    
      <h1> Owls </h1>
     <p> 
+     
       Most birds of prey sport eyes on the sides of their heads,
-  but the stereoscopic nature of the owl's forward-facing eyes permits the greater
-  sense of depth perception necessary for low-light hunting.
+  but the stereoscopic nature of the owl's forward-facing <strong> eyes permits the greater
+     sense of depth perception </strong> necessary for low-light hunting.
       <a href="https://en.wikipedia.org/wiki/Owl">More information about owls...</a>
      </p>
    
@@ -33,7 +34,8 @@
         <li><img src="images/img1.jpg" alt="adorable"></li>
         <li><img src="images/img2.jpg" alt="lovely"></li>
         <li><img src="images/img3.jpg" alt="cuddly"></li>         
-      </ul>
+      
+       </ul>
       
       <ol> 
         <li> They are adorable </li>
@@ -46,7 +48,7 @@
     <a href="https://www.youtube.com/watch?v=gBjnfgnwXic">
     <img src="images/img4.jpg" alt="cute owl">
     <img src="images/img5.jpg" alt="another cute owl">
-    
+    <br>
     Watch the video
   
      </a>     
