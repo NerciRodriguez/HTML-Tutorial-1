@@ -1,8 +1,15 @@
 <!doctype html>
 <html>
+ 
+  <div>
+    <img scr="images/logo.png" alt="codebar.io">
+     
+  </div>
+ 
   <head> 
   <tittle> I Love Owls</tittle>
   </head>
+ 
   <body>
   # HTML-Tutorial-1
   
@@ -19,8 +26,10 @@
     </div>
     
     <h2> Why do I like owls so much <h/>
-      
-      <ul>
+    
+      <div> 
+     
+        <ul>
         <li><img src="images/img1.jpg" alt="adorable"></li>
         <li><img src="images/img2.jpg" alt="lovely"></li>
         <li><img src="images/img3.jpg" alt="cuddly"></li>         
